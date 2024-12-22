@@ -1,0 +1,424 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Work\\Job\\xiangqi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45E5DBD3-4E4D-425C-A855-26471DD2475B}|Xiangqi\\Xiangqi.csproj|e:\\work\\job\\xiangqi\\xiangqi\\gamescreen\\leaderboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E5DBD3-4E4D-425C-A855-26471DD2475B}|Xiangqi\\Xiangqi.csproj|solutionrelative:xiangqi\\gamescreen\\leaderboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E5DBD3-4E4D-425C-A855-26471DD2475B}|Xiangqi\\Xiangqi.csproj|E:\\Work\\Job\\xiangqi\\xiangqi\\gamescreen\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45E5DBD3-4E4D-425C-A855-26471DD2475B}|Xiangqi\\Xiangqi.csproj|solutionrelative:xiangqi\\gamescreen\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E5DBD3-4E4D-425C-A855-26471DD2475B}|Xiangqi\\Xiangqi.csproj|e:\\work\\job\\xiangqi\\xiangqi\\gamescreen\\leaderboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45E5DBD3-4E4D-425C-A855-26471DD2475B}|Xiangqi\\Xiangqi.csproj|solutionrelative:xiangqi\\gamescreen\\leaderboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E5DBD3-4E4D-425C-A855-26471DD2475B}|Xiangqi\\Xiangqi.csproj|e:\\work\\job\\xiangqi\\xiangqi\\gamescreen\\leaderboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E5DBD3-4E4D-425C-A855-26471DD2475B}|Xiangqi\\Xiangqi.csproj|solutionrelative:xiangqi\\gamescreen\\leaderboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E5DBD3-4E4D-425C-A855-26471DD2475B}|Xiangqi\\Xiangqi.csproj|E:\\Work\\Job\\xiangqi\\xiangqi\\gamescreen\\gamescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E5DBD3-4E4D-425C-A855-26471DD2475B}|Xiangqi\\Xiangqi.csproj|solutionrelative:xiangqi\\gamescreen\\gamescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E5DBD3-4E4D-425C-A855-26471DD2475B}|Xiangqi\\Xiangqi.csproj|E:\\Work\\Job\\xiangqi\\xiangqi\\gamescreen\\gamescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45E5DBD3-4E4D-425C-A855-26471DD2475B}|Xiangqi\\Xiangqi.csproj|solutionrelative:xiangqi\\gamescreen\\gamescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E5DBD3-4E4D-425C-A855-26471DD2475B}|Xiangqi\\Xiangqi.csproj|e:\\work\\job\\xiangqi\\xiangqi\\model\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E5DBD3-4E4D-425C-A855-26471DD2475B}|Xiangqi\\Xiangqi.csproj|solutionrelative:xiangqi\\model\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E5DBD3-4E4D-425C-A855-26471DD2475B}|Xiangqi\\Xiangqi.csproj|e:\\work\\job\\xiangqi\\xiangqi\\model\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E5DBD3-4E4D-425C-A855-26471DD2475B}|Xiangqi\\Xiangqi.csproj|solutionrelative:xiangqi\\model\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E5DBD3-4E4D-425C-A855-26471DD2475B}|Xiangqi\\Xiangqi.csproj|e:\\work\\job\\xiangqi\\xiangqi\\gamescreen\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E5DBD3-4E4D-425C-A855-26471DD2475B}|Xiangqi\\Xiangqi.csproj|solutionrelative:xiangqi\\gamescreen\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E5DBD3-4E4D-425C-A855-26471DD2475B}|Xiangqi\\Xiangqi.csproj|E:\\Work\\Job\\xiangqi\\xiangqi\\gamescreen\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45E5DBD3-4E4D-425C-A855-26471DD2475B}|Xiangqi\\Xiangqi.csproj|solutionrelative:xiangqi\\gamescreen\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E5DBD3-4E4D-425C-A855-26471DD2475B}|Xiangqi\\Xiangqi.csproj|E:\\Work\\Job\\xiangqi\\xiangqi\\gameboard\\gameboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E5DBD3-4E4D-425C-A855-26471DD2475B}|Xiangqi\\Xiangqi.csproj|solutionrelative:xiangqi\\gameboard\\gameboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E5DBD3-4E4D-425C-A855-26471DD2475B}|Xiangqi\\Xiangqi.csproj|e:\\work\\job\\xiangqi\\xiangqi\\gamescreen\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45E5DBD3-4E4D-425C-A855-26471DD2475B}|Xiangqi\\Xiangqi.csproj|solutionrelative:xiangqi\\gamescreen\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E5DBD3-4E4D-425C-A855-26471DD2475B}|Xiangqi\\Xiangqi.csproj|e:\\work\\job\\xiangqi\\xiangqi\\pawns\\behaviour\\soldierbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E5DBD3-4E4D-425C-A855-26471DD2475B}|Xiangqi\\Xiangqi.csproj|solutionrelative:xiangqi\\pawns\\behaviour\\soldierbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E5DBD3-4E4D-425C-A855-26471DD2475B}|Xiangqi\\Xiangqi.csproj|e:\\work\\job\\xiangqi\\xiangqi\\pawns\\rook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E5DBD3-4E4D-425C-A855-26471DD2475B}|Xiangqi\\Xiangqi.csproj|solutionrelative:xiangqi\\pawns\\rook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E5DBD3-4E4D-425C-A855-26471DD2475B}|Xiangqi\\Xiangqi.csproj|e:\\work\\job\\xiangqi\\xiangqi\\pawns\\ipawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E5DBD3-4E4D-425C-A855-26471DD2475B}|Xiangqi\\Xiangqi.csproj|solutionrelative:xiangqi\\pawns\\ipawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E5DBD3-4E4D-425C-A855-26471DD2475B}|Xiangqi\\Xiangqi.csproj|e:\\work\\job\\xiangqi\\xiangqi\\pawns\\emptypawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E5DBD3-4E4D-425C-A855-26471DD2475B}|Xiangqi\\Xiangqi.csproj|solutionrelative:xiangqi\\pawns\\emptypawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E5DBD3-4E4D-425C-A855-26471DD2475B}|Xiangqi\\Xiangqi.csproj|E:\\Work\\Job\\xiangqi\\xiangqi\\gameboard\\algminmax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E5DBD3-4E4D-425C-A855-26471DD2475B}|Xiangqi\\Xiangqi.csproj|solutionrelative:xiangqi\\gameboard\\algminmax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E5DBD3-4E4D-425C-A855-26471DD2475B}|Xiangqi\\Xiangqi.csproj|E:\\Work\\Job\\xiangqi\\xiangqi\\gamescreen\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E5DBD3-4E4D-425C-A855-26471DD2475B}|Xiangqi\\Xiangqi.csproj|solutionrelative:xiangqi\\gamescreen\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E5DBD3-4E4D-425C-A855-26471DD2475B}|Xiangqi\\Xiangqi.csproj|e:\\work\\job\\xiangqi\\xiangqi\\gamescreen\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E5DBD3-4E4D-425C-A855-26471DD2475B}|Xiangqi\\Xiangqi.csproj|solutionrelative:xiangqi\\gamescreen\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E5DBD3-4E4D-425C-A855-26471DD2475B}|Xiangqi\\Xiangqi.csproj|e:\\work\\job\\xiangqi\\xiangqi\\gamescreen\\register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E5DBD3-4E4D-425C-A855-26471DD2475B}|Xiangqi\\Xiangqi.csproj|solutionrelative:xiangqi\\gamescreen\\register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E5DBD3-4E4D-425C-A855-26471DD2475B}|Xiangqi\\Xiangqi.csproj|E:\\Work\\Job\\xiangqi\\xiangqi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E5DBD3-4E4D-425C-A855-26471DD2475B}|Xiangqi\\Xiangqi.csproj|solutionrelative:xiangqi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E5DBD3-4E4D-425C-A855-26471DD2475B}|Xiangqi\\Xiangqi.csproj|E:\\Work\\Job\\xiangqi\\xiangqi\\gamescreen\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E5DBD3-4E4D-425C-A855-26471DD2475B}|Xiangqi\\Xiangqi.csproj|solutionrelative:xiangqi\\gamescreen\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E5DBD3-4E4D-425C-A855-26471DD2475B}|Xiangqi\\Xiangqi.csproj|E:\\Work\\Job\\xiangqi\\xiangqi\\pawns\\soldier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E5DBD3-4E4D-425C-A855-26471DD2475B}|Xiangqi\\Xiangqi.csproj|solutionrelative:xiangqi\\pawns\\soldier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E5DBD3-4E4D-425C-A855-26471DD2475B}|Xiangqi\\Xiangqi.csproj|E:\\Work\\Job\\xiangqi\\xiangqi\\pawns\\behaviour\\cannonbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E5DBD3-4E4D-425C-A855-26471DD2475B}|Xiangqi\\Xiangqi.csproj|solutionrelative:xiangqi\\pawns\\behaviour\\cannonbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Leaderboard.Designer.cs",
+              "DocumentMoniker": "E:\\Work\\Job\\xiangqi\\Xiangqi\\Gamescreen\\Leaderboard.Designer.cs",
+              "RelativeDocumentMoniker": "Xiangqi\\Gamescreen\\Leaderboard.Designer.cs",
+              "ToolTip": "E:\\Work\\Job\\xiangqi\\Xiangqi\\Gamescreen\\Leaderboard.Designer.cs",
+              "RelativeToolTip": "Xiangqi\\Gamescreen\\Leaderboard.Designer.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAIAwwEgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T04:13:59.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Leaderboard.cs",
+              "DocumentMoniker": "E:\\Work\\Job\\xiangqi\\Xiangqi\\Gamescreen\\Leaderboard.cs",
+              "RelativeDocumentMoniker": "Xiangqi\\Gamescreen\\Leaderboard.cs",
+              "ToolTip": "E:\\Work\\Job\\xiangqi\\Xiangqi\\Gamescreen\\Leaderboard.cs",
+              "RelativeToolTip": "Xiangqi\\Gamescreen\\Leaderboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T04:09:42.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Leaderboard.cs [Design]",
+              "DocumentMoniker": "E:\\Work\\Job\\xiangqi\\Xiangqi\\Gamescreen\\Leaderboard.cs",
+              "RelativeDocumentMoniker": "Xiangqi\\Gamescreen\\Leaderboard.cs",
+              "ToolTip": "E:\\Work\\Job\\xiangqi\\Xiangqi\\Gamescreen\\Leaderboard.cs [Design]",
+              "RelativeToolTip": "Xiangqi\\Gamescreen\\Leaderboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T04:08:25.19Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Player.cs",
+              "DocumentMoniker": "E:\\Work\\Job\\xiangqi\\Xiangqi\\Model\\Player.cs",
+              "RelativeDocumentMoniker": "Xiangqi\\Model\\Player.cs",
+              "ToolTip": "E:\\Work\\Job\\xiangqi\\Xiangqi\\Model\\Player.cs",
+              "RelativeToolTip": "Xiangqi\\Model\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T04:07:10.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "About.cs",
+              "DocumentMoniker": "E:\\Work\\Job\\xiangqi\\Xiangqi\\Gamescreen\\About.cs",
+              "RelativeDocumentMoniker": "Xiangqi\\Gamescreen\\About.cs",
+              "ToolTip": "E:\\Work\\Job\\xiangqi\\Xiangqi\\Gamescreen\\About.cs",
+              "RelativeToolTip": "Xiangqi\\Gamescreen\\About.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T04:05:14.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SoldierBehaviour.cs",
+              "DocumentMoniker": "E:\\Work\\Job\\xiangqi\\Xiangqi\\Pawns\\Behaviour\\SoldierBehaviour.cs",
+              "RelativeDocumentMoniker": "Xiangqi\\Pawns\\Behaviour\\SoldierBehaviour.cs",
+              "ToolTip": "E:\\Work\\Job\\xiangqi\\Xiangqi\\Pawns\\Behaviour\\SoldierBehaviour.cs",
+              "RelativeToolTip": "Xiangqi\\Pawns\\Behaviour\\SoldierBehaviour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T03:39:12.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Rook.cs",
+              "DocumentMoniker": "E:\\Work\\Job\\xiangqi\\Xiangqi\\Pawns\\Rook.cs",
+              "RelativeDocumentMoniker": "Xiangqi\\Pawns\\Rook.cs",
+              "ToolTip": "E:\\Work\\Job\\xiangqi\\Xiangqi\\Pawns\\Rook.cs",
+              "RelativeToolTip": "Xiangqi\\Pawns\\Rook.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwDEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T03:38:54.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmptyPawn.cs",
+              "DocumentMoniker": "E:\\Work\\Job\\xiangqi\\Xiangqi\\Pawns\\EmptyPawn.cs",
+              "RelativeDocumentMoniker": "Xiangqi\\Pawns\\EmptyPawn.cs",
+              "ToolTip": "E:\\Work\\Job\\xiangqi\\Xiangqi\\Pawns\\EmptyPawn.cs",
+              "RelativeToolTip": "Xiangqi\\Pawns\\EmptyPawn.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T03:35:16.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IPawn.cs",
+              "DocumentMoniker": "E:\\Work\\Job\\xiangqi\\Xiangqi\\Pawns\\IPawn.cs",
+              "RelativeDocumentMoniker": "Xiangqi\\Pawns\\IPawn.cs",
+              "ToolTip": "E:\\Work\\Job\\xiangqi\\Xiangqi\\Pawns\\IPawn.cs",
+              "RelativeToolTip": "Xiangqi\\Pawns\\IPawn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T03:33:51.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Register.Designer.cs",
+              "DocumentMoniker": "E:\\Work\\Job\\xiangqi\\Xiangqi\\Gamescreen\\Register.Designer.cs",
+              "RelativeDocumentMoniker": "Xiangqi\\Gamescreen\\Register.Designer.cs",
+              "ToolTip": "E:\\Work\\Job\\xiangqi\\Xiangqi\\Gamescreen\\Register.Designer.cs",
+              "RelativeToolTip": "Xiangqi\\Gamescreen\\Register.Designer.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAADwv2wAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T02:53:21.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Register.cs",
+              "DocumentMoniker": "E:\\Work\\Job\\xiangqi\\Xiangqi\\Gamescreen\\Register.cs",
+              "RelativeDocumentMoniker": "Xiangqi\\Gamescreen\\Register.cs",
+              "ToolTip": "E:\\Work\\Job\\xiangqi\\Xiangqi\\Gamescreen\\Register.cs",
+              "RelativeToolTip": "Xiangqi\\Gamescreen\\Register.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T02:53:07.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "E:\\Work\\Job\\xiangqi\\Xiangqi\\Gamescreen\\Register.cs",
+              "RelativeDocumentMoniker": "Xiangqi\\Gamescreen\\Register.cs",
+              "ToolTip": "E:\\Work\\Job\\xiangqi\\Xiangqi\\Gamescreen\\Register.cs [Design]",
+              "RelativeToolTip": "Xiangqi\\Gamescreen\\Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T02:45:48.748Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "E:\\Work\\Job\\xiangqi\\Xiangqi\\Model\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "Xiangqi\\Model\\DatabaseHelper.cs",
+              "ToolTip": "E:\\Work\\Job\\xiangqi\\Xiangqi\\Model\\DatabaseHelper.cs",
+              "RelativeToolTip": "Xiangqi\\Model\\DatabaseHelper.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAowMIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T14:59:44.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "About.cs [Design]",
+              "DocumentMoniker": "E:\\Work\\Job\\xiangqi\\Xiangqi\\Gamescreen\\About.cs",
+              "RelativeDocumentMoniker": "Xiangqi\\Gamescreen\\About.cs",
+              "ToolTip": "E:\\Work\\Job\\xiangqi\\Xiangqi\\Gamescreen\\About.cs [Design]",
+              "RelativeToolTip": "Xiangqi\\Gamescreen\\About.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T14:54:23.101Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "E:\\Work\\Job\\xiangqi\\Xiangqi\\Gamescreen\\Login.cs",
+              "RelativeDocumentMoniker": "Xiangqi\\Gamescreen\\Login.cs",
+              "ToolTip": "E:\\Work\\Job\\xiangqi\\Xiangqi\\Gamescreen\\Login.cs [Design]",
+              "RelativeToolTip": "Xiangqi\\Gamescreen\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T14:50:11.209Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "E:\\Work\\Job\\xiangqi\\Xiangqi\\Gamescreen\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "Xiangqi\\Gamescreen\\Login.Designer.cs",
+              "ToolTip": "E:\\Work\\Job\\xiangqi\\Xiangqi\\Gamescreen\\Login.Designer.cs",
+              "RelativeToolTip": "Xiangqi\\Gamescreen\\Login.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwHIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T14:50:04.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameScreen.cs",
+              "DocumentMoniker": "E:\\Work\\Job\\xiangqi\\Xiangqi\\Gamescreen\\GameScreen.cs",
+              "RelativeDocumentMoniker": "Xiangqi\\Gamescreen\\GameScreen.cs",
+              "ToolTip": "E:\\Work\\Job\\xiangqi\\Xiangqi\\Gamescreen\\GameScreen.cs",
+              "RelativeToolTip": "Xiangqi\\Gamescreen\\GameScreen.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAUwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T14:47:09.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.cs",
+              "DocumentMoniker": "E:\\Work\\Job\\xiangqi\\Xiangqi\\Gamescreen\\Login.cs",
+              "RelativeDocumentMoniker": "Xiangqi\\Gamescreen\\Login.cs",
+              "ToolTip": "E:\\Work\\Job\\xiangqi\\Xiangqi\\Gamescreen\\Login.cs",
+              "RelativeToolTip": "Xiangqi\\Gamescreen\\Login.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T14:48:00.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Work\\Job\\xiangqi\\Xiangqi\\Program.cs",
+              "RelativeDocumentMoniker": "Xiangqi\\Program.cs",
+              "ToolTip": "E:\\Work\\Job\\xiangqi\\Xiangqi\\Program.cs",
+              "RelativeToolTip": "Xiangqi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T14:47:06.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameScreen.cs [Design]",
+              "DocumentMoniker": "E:\\Work\\Job\\xiangqi\\Xiangqi\\Gamescreen\\GameScreen.cs",
+              "RelativeDocumentMoniker": "Xiangqi\\Gamescreen\\GameScreen.cs",
+              "ToolTip": "E:\\Work\\Job\\xiangqi\\Xiangqi\\Gamescreen\\GameScreen.cs [Design]",
+              "RelativeToolTip": "Xiangqi\\Gamescreen\\GameScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T14:46:59.284Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Soldier.cs",
+              "DocumentMoniker": "E:\\Work\\Job\\xiangqi\\Xiangqi\\Pawns\\Soldier.cs",
+              "RelativeDocumentMoniker": "Xiangqi\\Pawns\\Soldier.cs",
+              "ToolTip": "E:\\Work\\Job\\xiangqi\\Xiangqi\\Pawns\\Soldier.cs",
+              "RelativeToolTip": "Xiangqi\\Pawns\\Soldier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T14:46:50.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CannonBehaviour.cs",
+              "DocumentMoniker": "E:\\Work\\Job\\xiangqi\\Xiangqi\\Pawns\\Behaviour\\CannonBehaviour.cs",
+              "RelativeDocumentMoniker": "Xiangqi\\Pawns\\Behaviour\\CannonBehaviour.cs",
+              "ToolTip": "E:\\Work\\Job\\xiangqi\\Xiangqi\\Pawns\\Behaviour\\CannonBehaviour.cs",
+              "RelativeToolTip": "Xiangqi\\Pawns\\Behaviour\\CannonBehaviour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T14:42:10.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameBoard.cs",
+              "DocumentMoniker": "E:\\Work\\Job\\xiangqi\\Xiangqi\\Gameboard\\GameBoard.cs",
+              "RelativeDocumentMoniker": "Xiangqi\\Gameboard\\GameBoard.cs",
+              "ToolTip": "E:\\Work\\Job\\xiangqi\\Xiangqi\\Gameboard\\GameBoard.cs",
+              "RelativeToolTip": "Xiangqi\\Gameboard\\GameBoard.cs",
+              "ViewState": "AgIAAP8CAAAAAAAAAAAAACADAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T14:42:02.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AlgMinmax.cs",
+              "DocumentMoniker": "E:\\Work\\Job\\xiangqi\\Xiangqi\\Gameboard\\AlgMinmax.cs",
+              "RelativeDocumentMoniker": "Xiangqi\\Gameboard\\AlgMinmax.cs",
+              "ToolTip": "E:\\Work\\Job\\xiangqi\\Xiangqi\\Gameboard\\AlgMinmax.cs",
+              "RelativeToolTip": "Xiangqi\\Gameboard\\AlgMinmax.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwFwBAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T17:16:43.097Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

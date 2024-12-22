@@ -1,0 +1,27 @@
+C:\Users\souphian\Dropbox\windesheim\Leerjaar 3\Periode 3\Game Algorithms and Artificial Intelligence\Xiangqi\Xiangqi\bin\Debug\Xiangqi.exe.config
+C:\Users\souphian\Dropbox\windesheim\Leerjaar 3\Periode 3\Game Algorithms and Artificial Intelligence\Xiangqi\Xiangqi\bin\Debug\Xiangqi.exe
+C:\Users\souphian\Dropbox\windesheim\Leerjaar 3\Periode 3\Game Algorithms and Artificial Intelligence\Xiangqi\Xiangqi\bin\Debug\Xiangqi.pdb
+C:\Users\souphian\Dropbox\windesheim\Leerjaar 3\Periode 3\Game Algorithms and Artificial Intelligence\Xiangqi\Xiangqi\obj\Debug\Xiangqi.csprojResolveAssemblyReference.cache
+C:\Users\souphian\Dropbox\windesheim\Leerjaar 3\Periode 3\Game Algorithms and Artificial Intelligence\Xiangqi\Xiangqi\obj\Debug\Xiangqi.Properties.Resources.resources
+C:\Users\souphian\Dropbox\windesheim\Leerjaar 3\Periode 3\Game Algorithms and Artificial Intelligence\Xiangqi\Xiangqi\obj\Debug\Xiangqi.csproj.GenerateResource.Cache
+C:\Users\souphian\Dropbox\windesheim\Leerjaar 3\Periode 3\Game Algorithms and Artificial Intelligence\Xiangqi\Xiangqi\obj\Debug\Xiangqi.exe
+C:\Users\souphian\Dropbox\windesheim\Leerjaar 3\Periode 3\Game Algorithms and Artificial Intelligence\Xiangqi\Xiangqi\obj\Debug\Xiangqi.pdb
+C:\Users\souphian\Dropbox\windesheim\Leerjaar 3\Periode 3\Game Algorithms and Artificial Intelligence\Xiangqi\Xiangqi\obj\Debug\Xiangqi.GameScreen.resources
+C:\Users\souphian\Dropbox\windesheim\Leerjaar 3\Periode 3\Game Algorithms and Artificial Intelligence\Xiangqi\Xiangqi\obj\Debug\Xiangqi.Gamescreen.About.resources
+C:\Users\souphian\Desktop\Xiangqi\Xiangqi\bin\Debug\Xiangqi.exe.config
+C:\Users\souphian\Desktop\Xiangqi\Xiangqi\obj\Debug\Xiangqi.exe
+C:\Users\souphian\Desktop\Xiangqi\Xiangqi\obj\Debug\Xiangqi.pdb
+E:\Work\Job\xiangqi\Xiangqi\bin\Debug\Xiangqi.exe.config
+E:\Work\Job\xiangqi\Xiangqi\bin\Debug\Xiangqi.exe
+E:\Work\Job\xiangqi\Xiangqi\bin\Debug\Xiangqi.pdb
+E:\Work\Job\xiangqi\Xiangqi\obj\Debug\Xiangqi.csproj.AssemblyReference.cache
+E:\Work\Job\xiangqi\Xiangqi\obj\Debug\Xiangqi.Gamescreen.About.resources
+E:\Work\Job\xiangqi\Xiangqi\obj\Debug\Xiangqi.GameScreen.resources
+E:\Work\Job\xiangqi\Xiangqi\obj\Debug\Xiangqi.Properties.Resources.resources
+E:\Work\Job\xiangqi\Xiangqi\obj\Debug\Xiangqi.csproj.GenerateResource.cache
+E:\Work\Job\xiangqi\Xiangqi\obj\Debug\Xiangqi.csproj.CoreCompileInputs.cache
+E:\Work\Job\xiangqi\Xiangqi\obj\Debug\Xiangqi.exe
+E:\Work\Job\xiangqi\Xiangqi\obj\Debug\Xiangqi.pdb
+E:\Work\Job\xiangqi\Xiangqi\obj\Debug\Xiangqi.Gamescreen.Login.resources
+E:\Work\Job\xiangqi\Xiangqi\obj\Debug\Xiangqi.Gamescreen.BtnRegister.resources
+E:\Work\Job\xiangqi\Xiangqi\obj\Debug\Xiangqi.Gamescreen.Leaderboard.resources

@@ -1,0 +1,11 @@
+E:\Work\Job\xiangqi\Xiangqi\bin\Release\Xiangqi.exe.config
+E:\Work\Job\xiangqi\Xiangqi\bin\Release\Xiangqi.exe
+E:\Work\Job\xiangqi\Xiangqi\bin\Release\Xiangqi.pdb
+E:\Work\Job\xiangqi\Xiangqi\obj\Release\Xiangqi.csproj.AssemblyReference.cache
+E:\Work\Job\xiangqi\Xiangqi\obj\Release\Xiangqi.Gamescreen.About.resources
+E:\Work\Job\xiangqi\Xiangqi\obj\Release\Xiangqi.GameScreen.resources
+E:\Work\Job\xiangqi\Xiangqi\obj\Release\Xiangqi.Properties.Resources.resources
+E:\Work\Job\xiangqi\Xiangqi\obj\Release\Xiangqi.csproj.GenerateResource.cache
+E:\Work\Job\xiangqi\Xiangqi\obj\Release\Xiangqi.csproj.CoreCompileInputs.cache
+E:\Work\Job\xiangqi\Xiangqi\obj\Release\Xiangqi.exe
+E:\Work\Job\xiangqi\Xiangqi\obj\Release\Xiangqi.pdb
