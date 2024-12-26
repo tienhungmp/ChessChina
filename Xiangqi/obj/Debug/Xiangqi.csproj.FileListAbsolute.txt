@@ -25,3 +25,8 @@ E:\Work\Job\xiangqi\Xiangqi\obj\Debug\Xiangqi.pdb
 E:\Work\Job\xiangqi\Xiangqi\obj\Debug\Xiangqi.Gamescreen.Login.resources
 E:\Work\Job\xiangqi\Xiangqi\obj\Debug\Xiangqi.Gamescreen.BtnRegister.resources
 E:\Work\Job\xiangqi\Xiangqi\obj\Debug\Xiangqi.Gamescreen.Leaderboard.resources
+E:\Work\Job\xiangqi\Xiangqi\bin\Debug\EntityFramework.dll
+E:\Work\Job\xiangqi\Xiangqi\bin\Debug\EntityFramework.SqlServer.dll
+E:\Work\Job\xiangqi\Xiangqi\bin\Debug\EntityFramework.xml
+E:\Work\Job\xiangqi\Xiangqi\bin\Debug\EntityFramework.SqlServer.xml
+E:\Work\Job\xiangqi\Xiangqi\obj\Debug\Xiangqi.csproj.Up2Date
